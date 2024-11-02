@@ -1,0 +1,33 @@
+INIT basic_test3
+DONE
+PUT key1 imfbn
+PUT key1 gdowl
+GET key1
+PUT key2 jmhnu
+PUT key2 ywhah
+GET key2
+PUT key3 mcfcd
+PUT key3 ogvju
+GET key3
+PUT key4 qagcz
+PUT key4 ptesa
+GET key4
+PUT key5 fhklw
+PUT key5 mlbeg
+GET key5
+PUT key6 nsjdl
+PUT key6 amrxa
+GET key6
+PUT key7 tmffs
+PUT key7 gcrnb
+GET key7
+PUT key8 swwqk
+PUT key8 lihde
+GET key8
+PUT key9 jrnmt
+PUT key9 tcvvg
+GET key9
+PUT key10 fgygv
+PUT key10 wspwt
+GET key10
+SHUTDOWN

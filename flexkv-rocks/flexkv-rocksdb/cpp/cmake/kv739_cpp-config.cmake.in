@@ -1,0 +1,4 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/kv739_cpp-targets.cmake")
+check_required_components(kv739_cpp)
